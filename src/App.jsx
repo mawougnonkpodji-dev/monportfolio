@@ -131,8 +131,8 @@ function App() {
           <div className="about-content">
             <div className="about-image">
               <div className="about-image-box">
-                <img src="ZEUYTOO.jpeg" alt="Mawougnon"
-/>               </div>
+                <img src="/ZEUYTOO.jpeg" alt="Mawougnon" />
+              </div>
             </div>
             <div className="about-text">
               <p>
