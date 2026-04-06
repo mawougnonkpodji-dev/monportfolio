@@ -131,7 +131,7 @@ function App() {
           <div className="about-content">
             <div className="about-image">
               <div className="about-image-box">
-                <img src="/ZEUYTOO.jpeg" alt="Mawougnon" />
+                <img src="/5953761856054824246.jpg" alt="Mawougnon" />
               </div>
             </div>
             <div className="about-text">
@@ -250,10 +250,16 @@ function App() {
               <p>Maintence et installation des systèmes de vidéo surveillances</p>
             </div>
             <div className="parcours-card">
-              <h3>Stage développement web</h3>
+              <h3>Stage en développement web</h3>
               <div className="entreprise">HGTECH SARL</div>
               <div className="date">Août 2025</div>
               <p>Contribution au développement d'une plateforme d'orientation pour les nouveaux bacheliers. Expérience en travail d'équipe, respect des délais et des besoins clients.</p>
+            </div>
+            <div className="parcours-card">
+              <h3>Stage académique en développement web</h3>
+              <div className="entreprise">DIGITAL SERVICE TELECOM</div>
+              <div className="date">Mars 2026 - présent</div>
+              <p>Préparation du TFE(Travaux de fin d'études). Expérience en travail d'équipe, Maintenace GSM.</p>
             </div>
             <div className="parcours-card">
               <h3>Projets académiques</h3>
