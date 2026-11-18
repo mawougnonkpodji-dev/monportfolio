@@ -238,7 +238,7 @@ function App() {
           </div>
           <div className="parcours-content">
             <div className="parcours-card">
-              <h3>Formation en Informatique et Télécommunications</h3>
+              <h3>Licence professionnelle en Génie-électrique et Informatique option Informatique et Télécommunications (GEI/IT)</h3>
               <div className="entreprise">GEI / IT</div>
               <div className="date">2023-2026</div>
               <p>Étudiant en télécommunications et informatique, travail sur plusieurs projets académiques et personnels autour du développement web et des solutions numériques.</p>
@@ -248,6 +248,7 @@ function App() {
               <div className="entreprise">REGO MAINTENANCE</div>
               <div className="date">Août 2024</div>
               <p>Maintence et installation des systèmes de vidéo surveillances</p>
+              <p>Réseaux Informatiques & Electriques</p>
             </div>
             <div className="parcours-card">
               <h3>Stage en développement web</h3>
@@ -258,8 +259,8 @@ function App() {
             <div className="parcours-card">
               <h3>Stage académique en développement web</h3>
               <div className="entreprise">DIGITAL SERVICE TELECOM</div>
-              <div className="date">Mars 2026 - présent</div>
-              <p>Préparation du TFE(Travaux de fin d'études). Expérience en travail d'équipe, Maintenace GSM.</p>
+              <div className="date">Mars 2026 - Juin 2026</div>
+              <p>Préparation du TFE(Travaux de fin d'études). Expérience en travail d'équipe, Maintenace GSM, Initiation à la fibre optique.</p>
             </div>
             <div className="parcours-card">
               <h3>Projets académiques</h3>
