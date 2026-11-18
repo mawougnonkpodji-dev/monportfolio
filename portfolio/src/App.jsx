@@ -157,7 +157,7 @@ function App() {
               <div className="stage-frame">
                 <LogoScene />
               </div>
-              <p className="stage-caption">Logos 3D — React, Python, JavaScript, SQL, Git</p>
+              <p className="stage-caption">React, Python, JavaScript, SQL, Git</p>
             </div>
           </div>
         </section>
